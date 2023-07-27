@@ -130,7 +130,7 @@ int main()
 	// Creates camera object
 	Camera camera(width, height, glm::vec3(0.0f, 0.0f, 2.0f));
 
-	Model model("models/bunny/scene.gltf");
+	Model model("models/mine/ahh.gltf");
 
 	// Main while loop
 	while (!glfwWindowShouldClose(window))
