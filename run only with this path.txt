@@ -1,4 +1,1 @@
-run only with this path 
 
-
-"E:\visual project\C++ Open GL\First\Open GL\Open GL.sln"
